@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+.main{
+	display:flex;
+	box-sizing:border-box;
+	height:75vh;
+	width:65vw;
+	margin:auto;
+	justify-content:center;
+	padding:10px;
+	background-color:lightgray;
+	
+}
+.img{
+	display:flex;
+	flex-direction:column;
+	height:25vh;
+	width:30vw;
+	
+}
+.tittle{
+	display:flex;
+	flex-direction:column;
+	align-content:justify;
+	align-items:center;
+	
+}
+#button{
+	padding":1px;
+	background-color:orange;
+	border-radius:3px;
+}
+	
+	
+	
+}
