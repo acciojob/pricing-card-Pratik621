@@ -2,7 +2,7 @@
 .main{
 	display:flex;
 	box-sizing:border-box;
-	height:75vh;
+	height:80vh;
 	width:65vw;
 	margin:auto;
 	justify-content:center;
@@ -24,9 +24,10 @@
 	align-items:center;
 	
 }
-#button{
+button{
 	padding":1px;
 	background-color:orange;
+	height:1.7rem;
 	border-radius:3px;
 }
 	
